@@ -1,0 +1,39 @@
+	h1         {color: #5C0C8E; font-family:gabriola, arial; font-size: 40px; text-align: center;}
+	h2         {color: #000000; font-family:gabriola, arial; font-size: 22px; text-align: center;}
+	h3         {color: #E74C3C; font-family:gabriola, arial; font-size: 30px; text-align: center;}
+	h4         {color: #5C0C8E; font-family:gabriola, arial; font-size: 40px; text-align: center;}
+	p          {text-align:justify; font-size: 20px; color: #1E1E1E;}
+	.imagenes  {width:400px; margin-left: 3%; }
+	body       {background-image: url('../Images/gif02.gif');}
+	.text-form {width: 80%; height: 75%;} 
+	#precios   {float: right; text-align: right;}
+	
+	
+
+	#container02{
+	margin: 5% 30% 5% 30%;
+	border: 1px solid #ccc;
+	background-color: #F8E0E6;
+	padding: 0 10px 10px 10px;}
+
+	label{font-weight: bold;}
+
+	#container03{background-color: #F8E0E6; padding: 0px 5px 10px 5px; width: 40%; height: auto;
+		text-align: center; display: inline-block; float: left; margin-left:5%;}
+
+
+	table     {font-family: gabriola, arial; font-size: 22px; text-align: center;}
+
+	#cuadrovalor{margin: 5% 20% 5% 20%;
+	border: 1px solid #ccc;
+	background-color: #F8E0E6;
+	padding: 0 10px 10px 10px; height: 80%;}
+
+	.menu-casa {color:#5C0C8E; font-size: 23px; font-family: gabriola, arial; font-weight: bold;}
+	.footcuadro {height: 300px; width: 90%; border: 0;}
+
+	.ifra-head {width: 0;height: 0;}
+	
+	.img-inicial {
+			width:400px; margin-left: 35%;
+	}

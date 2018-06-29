@@ -1,0 +1,7 @@
+	.spanfoot  {font-size: 20px; color: #E74C3C; font-weight: bold;}
+	#foot      {width: 100%;background-color: #d6c8ea; height: 310px;}
+	.divfoot   {display: inline-block; border: 0px solid #000; width: 30%; text-align: center;}
+	.icono     {width: 50px;}
+	.li        {list-style-type: none;}
+	.lfoot     {color:#000000; font-size: 20px; font-family: gabriola, arial; font-weight: bold; }
+
